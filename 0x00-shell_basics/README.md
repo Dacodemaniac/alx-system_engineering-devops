@@ -1,1 +1,0 @@
-scripts are made to give certain commands!
